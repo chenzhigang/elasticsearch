@@ -1,0 +1,9 @@
+server:
+  port: 18081
+
+
+# es 配置
+spring:
+  elasticsearch:
+    uris: 127.0.0.1:9200
+
